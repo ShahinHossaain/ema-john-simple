@@ -1,0 +1,21 @@
+.header{
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+}
+#header-img{
+    margin: 19px 112px;
+}
+#side-link-container{
+    /* text-align: end; */
+    margin: auto 65px ;
+}
+.side-link{
+    text-decoration: none;
+    color: white;
+    margin: 0px 10px;
+}
+.side-link:hover{
+    color: orange;
+}
