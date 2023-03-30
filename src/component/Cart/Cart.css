@@ -1,0 +1,26 @@
+.cart{
+    background: rgba(255, 153, 0, 0.3);
+    padding: 25px;
+    position: sticky;
+    top: 0;
+}
+.Btn{
+    padding: 14px;
+    color: wheat;
+    width: 97%;
+    border-radius: 6px;
+    margin-top: 10px;
+    border: wheat;
+}
+.clearBtn{
+    background-color: #FF3030;
+}
+.reviewBtn{
+    background-color: #FF9900;
+}
+.clearBtn:hover{
+    background-color: #ff0000;
+}
+.reviewBtn:hover{
+    background-color: #bb7102;
+}
